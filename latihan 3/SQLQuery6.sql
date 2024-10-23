@@ -1,0 +1,21 @@
+INSERT INTO MAHASISWA(ID,NPM,NAMA)
+VALUES (1,'BUDI'),
+ (2,'BUDI'),
+  (3,'BUDI'),
+   (4,'BUDI'),
+    (5,'BUDI'),
+	 (6,'BUDI'),
+	  (7,'BUDI'),
+	   (8,'BUDI'),
+	    (9,'BUDI'),
+		 (10,'BUDI')
+		 (11,'BUDI'),
+			(12,'BUDI'),
+  (13,'BUDI'),
+   (14,'BUDI'),
+    (15,'BUDI'),
+	 (16,'BUDI'),
+	  (17,'BUDI'),
+	   (18,'BUDI'),
+	    (19,'BUDI'),
+		 (20,'BUDI')
