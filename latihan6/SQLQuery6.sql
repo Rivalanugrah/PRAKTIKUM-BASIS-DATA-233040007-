@@ -1,0 +1,3 @@
+select *
+From 
+[dbo].[Employee]
